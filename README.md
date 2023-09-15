@@ -1,8 +1,8 @@
 <p align="center"><a href="https://github.com/lgcns5g/LGCNS-5G-Core-UPF" target="_blank" rel="noopener noreferrer"><img width="700" src="https://github.com/lgcns5g/LGCNS-5G-Core/blob/main/assets/img/LG%20CNS%205G%20Core.png" alt="LG CNS 5G Core logo"></a></p> 
 
-LG CNS 5G Core UPF is a solution based on the 3GPP specifications for the 5G core user plane.  
+LG CNS 5G Core UPF is a solution based on the 3GPP specifications for the 5G Core User Plane.  
+This repository is only for User Plan of the 5G Core Network. For Control Plane, visit [here](https://github.com/lgcns5g/LGCNS-5G-Core).
 
-This repository only contains a copy of the "License".
 The source code and detailed modifications are closed.
 
 ### User Plane
