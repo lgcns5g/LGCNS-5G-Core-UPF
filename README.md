@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/lgcns5g/test" target="_blank" rel="noopener noreferrer"><img width="700" src="https://github.com/lgcns5g/test/blob/main/LG%20CNS%205G%20Core.png" alt="LG CNS 5G Core logo"></a></p> 
+<p align="center"><a href="https://github.com/lgcns5g/LGCNS-5G-Core-UPF" target="_blank" rel="noopener noreferrer"><img width="700" src="https://github.com/lgcns5g/LGCNS-5G-Core/blob/main/assets/img/LG%20CNS%205G%20Core.png" alt="LG CNS 5G Core logo"></a></p> 
 
 LG CNS 5G Core UPF is a solution based on the 3GPP specifications for the 5G core user plane.  
 
@@ -18,7 +18,7 @@ Please refer to the [Release Notes](https://github.com/lgcns5g/LGCNS-5G-Core/rel
 
 ## License
 The license file is also provided in the root directory of this repository.  
-LG CNS 5G Core UPF is now under Apache 2.0 license.
+LG CNS 5G Core UPF is now under Apache 2.0 license.([Apache 2.0](https://github.com/lgcns5g/LGCNS-5G-Core-UPF/blob/main/LICENSE))
 
 
 
