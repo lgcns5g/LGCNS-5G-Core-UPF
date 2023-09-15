@@ -5,6 +5,12 @@ LG CNS 5G Core UPF is a solution based on the 3GPP specifications for the 5G cor
 This repository only contains a copy of the "License".
 The source code and detailed modifications are closed.
 
+### User Plane
+- User Plane Function (UPF)
+
+### Control Plane
+- [Control Plane Function (CPF)](https://github.com/lgcns5g/LGCNS-5G-Core)  
+
 ## Modifications
 LG CNS 5G Core UPF is based on [upg-vpp](https://github.com/travelping/upg-vpp).
 The following modifications have been applied to some of the files.
